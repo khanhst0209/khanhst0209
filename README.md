@@ -4,4 +4,4 @@
 
 🎓 Currently studying at University of Science (HCMUS).
 
-📩 Reach me at: Phamnguyenkhanhst21@gmail.com
+📩 Reach me at: phamnguyenkhanhst21@gmail.com
