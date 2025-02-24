@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Phạm Nguyên Khánh(Khanh)
-- 👀 I’m interested in code game and algorithms
-- 🌱 I’m currently learning at Univesity of Science (US)
-- 📫 My Email : Phamnguyenkhanhst21@gmail.com
-
-
+👋 Hi, I’m Phạm Nguyên Khánh (Khanh)!
+💻 Passionate about coding and software development.
+🎓 Currently studying at University of Science (HCMUS).
+📩 Reach me at: Phamnguyenkhanhst21@gmail.com
